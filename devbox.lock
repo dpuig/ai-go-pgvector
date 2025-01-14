@@ -1,0 +1,149 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "go@latest": {
+      "last_modified": "2024-12-23T21:10:33Z",
+      "resolved": "github:NixOS/nixpkgs/de1864217bfa9b5845f465e771e0ecb48b30e02d#go",
+      "source": "devbox-search",
+      "version": "1.23.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bva4mymi5b2lhvvbccx8ipws89rar1d8-go-1.23.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bva4mymi5b2lhvvbccx8ipws89rar1d8-go-1.23.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9lvi0l2yf6bwamsjs5d5n9i57c6kbd2c-go-1.23.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9lvi0l2yf6bwamsjs5d5n9i57c6kbd2c-go-1.23.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/sf1y7x29wvp9lppx5ya9h5b42fcmxb32-go-1.23.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/sf1y7x29wvp9lppx5ya9h5b42fcmxb32-go-1.23.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jfv85qbj4vb1dafcg6kncg4vrbq2bbxv-go-1.23.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jfv85qbj4vb1dafcg6kncg4vrbq2bbxv-go-1.23.4"
+        }
+      }
+    },
+    "golangci-lint@latest": {
+      "last_modified": "2025-01-03T14:51:55Z",
+      "resolved": "github:NixOS/nixpkgs/a27871180d30ebee8aa6b11bf7fef8a52f024733#golangci-lint",
+      "source": "devbox-search",
+      "version": "1.63.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7rkrh0p9zvcwh9fy0hsk7pxcldvaiajs-golangci-lint-1.63.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7rkrh0p9zvcwh9fy0hsk7pxcldvaiajs-golangci-lint-1.63.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z839l50jifg5129zsnsshz10d5cfc8f7-golangci-lint-1.63.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/z839l50jifg5129zsnsshz10d5cfc8f7-golangci-lint-1.63.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8x11dm1d0zj7rb3y4rsdydmfmfqr4vjd-golangci-lint-1.63.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8x11dm1d0zj7rb3y4rsdydmfmfqr4vjd-golangci-lint-1.63.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jh9mhp15v2gfrkfg7d439wbx2vmlqjlv-golangci-lint-1.63.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jh9mhp15v2gfrkfg7d439wbx2vmlqjlv-golangci-lint-1.63.1"
+        }
+      }
+    },
+    "protobuf@latest": {
+      "last_modified": "2024-12-23T21:10:33Z",
+      "resolved": "github:NixOS/nixpkgs/de1864217bfa9b5845f465e771e0ecb48b30e02d#protobuf",
+      "source": "devbox-search",
+      "version": "29.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/f84pza4si05y3k2zv8vqs1ilms4g8h00-protobuf-29.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/f84pza4si05y3k2zv8vqs1ilms4g8h00-protobuf-29.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3760jvmf1b4m401sh9nrk0ypqv6vgndh-protobuf-29.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3760jvmf1b4m401sh9nrk0ypqv6vgndh-protobuf-29.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/p131c8sj9prxhmbs61gbjj5m474533bp-protobuf-29.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/p131c8sj9prxhmbs61gbjj5m474533bp-protobuf-29.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/491hg5rl10bk24vfc94glbv5s2vv9i0l-protobuf-29.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/491hg5rl10bk24vfc94glbv5s2vv9i0l-protobuf-29.1"
+        }
+      }
+    }
+  }
+}
